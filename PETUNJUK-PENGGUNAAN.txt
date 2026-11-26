@@ -1,0 +1,35 @@
+SETLAB TALKSHOW - VERSI OFFLINE
+Media Pembelajaran Tata Artistik: Set 3D Program Talkshow
+SMK Negeri 7 Surakarta - Pengembang: Noves Hendiansa, S.Sn.
+
+CARA MEMASANG DI KOMPUTER LAB
+1. Salin folder "SetLab-Talkshow" ke setiap komputer (lewat flashdisk atau jaringan lokal),
+   misalnya ke folder Dokumen atau Desktop.
+2. Klik dua kali file "SetLab-Talkshow.html".
+   Aplikasi terbuka di browser (disarankan Google Chrome atau Microsoft Edge versi terbaru).
+3. Tidak perlu internet dan tidak perlu instal apa pun. Semua isi (materi, kuis,
+   Lab 3D, logo, dan huruf) sudah ada di dalam satu file tersebut.
+
+MENGGUNAKAN DI PANEL INTERAKTIF DIGITAL (IFP / SMART BOARD)
+- Buka SetLab-Talkshow.html di browser panel (Chrome/Edge), lalu sentuh tombol
+  "Layar penuh" di menu kiri (atau tekan F11 bila tersedia keyboard).
+- Seluruh aplikasi tampil dalam satu layar tanpa perlu menggulir halaman.
+  Menu utama (Beranda, Materi, Lab 3D, Evaluasi) ada di sisi kiri.
+- Kuis tampil satu soal per layar dengan tombol jawaban besar.
+- Di Lab 3D: seret properti dengan jari, seret area kosong untuk memutar studio,
+  cubit dua jari atau tombol +/- untuk zoom.
+
+TIPS
+- Buat shortcut di Desktop: klik kanan file SetLab-Talkshow.html > Kirim ke > Desktop.
+- Progres siswa tersimpan di browser komputer yang dipakai. Satu kelompok sebaiknya
+  bekerja di komputer dan browser yang sama sampai laporan PDF diunduh.
+- Jangan membuka aplikasi dalam mode Penyamaran/Incognito, karena progres akan
+  hilang saat browser ditutup.
+- Laporan PDF tersimpan di folder Unduhan (Downloads). Cetak, lalu kumpulkan ke guru.
+- Untuk komputer yang dipakai bergantian: setelah laporan diunduh, siswa berikutnya
+  cukup klik "Ubah identitas" di Beranda dan mengisi data dirinya.
+  (Untuk mengosongkan semua data: tekan F12 > Application > Local Storage > hapus.)
+
+LISENSI HURUF
+Huruf Source Sans 3 dan Archivo Black yang tertanam di aplikasi memakai SIL Open Font
+License (lihat folder "lisensi-font").
